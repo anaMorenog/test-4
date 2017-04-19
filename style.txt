@@ -4,5 +4,5 @@ h1{
 }
 #special{
         font-size:70px;
-        color:maroon;
+        color:blue;
 }
