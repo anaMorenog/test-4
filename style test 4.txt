@@ -1,0 +1,8 @@
+h1{
+              font-size:90px;
+              color:purple;
+}
+#special{
+        font-size:70px;
+        color:blue;
+}
